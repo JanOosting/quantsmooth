@@ -4,7 +4,7 @@ author:
   - name: "Jan Oosting"
   - name: "Paul Eilers"
   - name: "Renee Menezes"
-date: "`r format(Sys.time(), '%B %d , %Y')`"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
 package: quantsmooth
 vignette: >
   %\VignetteIndexEntry{Analysis of genomic arrays using quantile smoothing}
